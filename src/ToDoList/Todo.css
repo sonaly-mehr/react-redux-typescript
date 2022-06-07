@@ -1,0 +1,37 @@
+.todo_list{
+}
+.todo-container{
+    text-align: center;
+    background: antiquewhite;
+    padding: 65px;
+}
+.todo_list input{
+    width: 204px;
+    height: 34px;
+    padding: 0 10px;
+    border: 1px solid burlywood;
+    margin-right: 5px;
+}
+.todo_list button{
+    margin-left: -5px;
+    height: 36px;
+    background: chocolate;
+    color: #fff;
+    font-size: 15px;
+    width: 100px;
+    border: 1px solid darkorange;
+    font-weight: 600;
+}
+.task-section{text-align: center;margin-top: 50px;}
+.task-content{display: inline-block;}
+.task-content span{
+    background: antiquewhite;
+    padding: 10px 70px;
+    border-right: 3px solid #fefefe;
+}
+.task-content span:last-child{border-right: none;}
+.task-section button{}
+.delete-btn{
+    width: 45px !important;
+    height: 41px !important;
+}

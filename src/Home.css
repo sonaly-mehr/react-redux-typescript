@@ -1,0 +1,16 @@
+.home-section{margin-top: 127px;}
+.home-section .bank, .home-section .todo{
+    background: #f5d942;
+    padding: 10px;
+      padding-top: 10px;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    padding-top: 18px;
+    border-radius: 10px;
+}
+.home-section .bank a, .home-section .todo a{
+    text-decoration: none;
+    color:#000
+
+}
