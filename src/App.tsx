@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Route, Routes, useParams } from 'react-router-
 import Home from './Home';
 import BankTransaction from './BankTransaction/BankTransaction';
 import ToDoList from './ToDoList/ToDoList';
+import ShoppingCart from './ShoppingCart/ShoppingCart';
 function App() {
   return (
     <Router>
@@ -13,6 +14,7 @@ function App() {
           <Route path="/home" element={<Home />} />
           <Route path="/bank" element={<BankTransaction />} />
           <Route path="/todolist" element={<ToDoList />} />
+          <Route path="/shopping" element={<ShoppingCart />} />
         </Routes>
       </Router>
   );

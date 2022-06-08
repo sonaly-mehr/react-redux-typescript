@@ -5,15 +5,24 @@
 .bank-transaction h2{
     margin-bottom: 40px;
 }
+.bank-transaction input{
+    width: 20%;
+    height: 35px;
+    border: 1px solid #b7b7b7;
+    font-size: 14px;
+    padding: 0 15px;
+    margin-bottom: 20px
+}
 .deposit{
     background: #ffa809;
     color: #fff;
     border: none;
-    padding: 8px 39px;
     font-weight: 600;
     border-radius: 6px;
     margin-left: 10px;
     margin-right: 10px;
+    width: 150px;
+    height: 40px;
 }
 .withdraw{
     background: #0997ff;
