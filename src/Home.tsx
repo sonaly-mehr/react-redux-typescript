@@ -27,7 +27,7 @@ const Home = () => {
                         <div className="shopping">
                             <Link to="/shopping">
                                 <h2>Shopping Cart</h2>
-                                <p>Here react & typescript were used to create a simple To Do App</p>
+                                <p>Here react typescript & Material Ui were used to create a simple shopping cart</p>
                             </Link>
                         </div>
                     </div>

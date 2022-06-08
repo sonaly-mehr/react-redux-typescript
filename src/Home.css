@@ -1,5 +1,5 @@
 .home-section{margin-top: 127px;}
-.home-section .bank, .home-section .todo{
+.home-section .bank, .home-section .todo, .home-section .shopping{
     background: #f5d942;
     padding: 10px;
       padding-top: 10px;
@@ -9,7 +9,7 @@
     padding-top: 18px;
     border-radius: 10px;
 }
-.home-section .bank a, .home-section .todo a{
+.home-section .bank a, .home-section .todo a, .home-section .shopping a{
     text-decoration: none;
     color:#000
 
